@@ -1,0 +1,1 @@
+$(function(){function o(){var o=$(".navbar");$(window).scrollTop()>o.outerHeight()?o.addClass("active"):o.removeClass("active")}o(),$(window).on("scroll",o)});
